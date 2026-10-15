@@ -1,0 +1,6 @@
+{
+  "name": "AuraOS Theme Studio",
+  "description": "Modern system theme customization studio for switching icon packs, tuning color palettes, previewing cross-device interfaces, and exporting design tokens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
